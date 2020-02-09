@@ -2,6 +2,6 @@
    "ver1":"1",
    "ver2":"0",
    "ver3":"
-   \nMUST Update.. Your DexGuard is OutDated!
+   \nMUST Update..\nYour Envision AI is OutDated!
    \nCurrent stable build is v2.0!"
 }
