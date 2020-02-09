@@ -1,6 +1,16 @@
 {
    "users":[
       {
+         "name":"Bablu Sharma",
+         "email":"bablusharma7240@gmail.com",
+         "deviceId":"860848047335675"
+      },
+      {
+         "name":"Stallon Peris",
+         "email":"stallonperis68@gmail.com",
+         "deviceId":"353385092948759"
+      },
+      {
          "name":"Khem Singh",
          "email":"singerkhem.kullu@gmail.com",
          "deviceId":"354143092098359"
