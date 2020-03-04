@@ -1,7 +1,7 @@
 { 
-   "ver1":"3",
+   "ver1":"2",
    "ver2":"0",
    "ver3":"
-   \nMUST Update..\nYour Envision AI is OutDated!
-   \nCurrent stable build is v2.0!"
+   \n\nMUST Update..\nYour Envision AI is OutDated!
+   \nCurrent stable build is v2.0!\n\nWhat's New:\nAdded: Support for reading multiple pages.\nEnabled: LIFETIME Subscription.\nFixed: Known bugs."
 }
