@@ -1,5 +1,5 @@
 { 
-   "ver1":"3",
+   "ver1":"2",
    "ver2":"0",
    "ver3":"
    \nMUST Update..\nYour Envision AI is OutDated!
