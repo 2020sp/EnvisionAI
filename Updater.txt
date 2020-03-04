@@ -3,5 +3,6 @@
    "ver2":"0",
    "ver3":"
    \n\nMUST Update..\nYour Envision AI is OutDated!
-   \nCurrent stable build is v2.0!\n\nWhat's New:\nAdded: Support for reading multiple pages.\nEnabled: LIFETIME Subscription.\nFixed: Known bugs."
+   \nCurrent stable build is v2.0!\n\n<h4>Kindly Note:</h4>
+<font color="red">As we have changed our security system due to Registration issue with Android 10 (Q) & Higher all users below Android 9 (Pie) are requested to register your Device again with us otherwise stay away from this update.</font>\n\nWhat's New:\nAdded: Support for reading multiple pages.\nEnabled: LIFETIME Subscription.\nFixed: Known bugs."
 }
