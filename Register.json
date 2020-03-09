@@ -1,6 +1,16 @@
 {
    "users":[
       {
+         "name":"Amar P",
+         "email":"amarp636363@gmail.com",
+         "deviceId":"39092acb875fdfe4"
+      },
+      {
+         "name":"MD Khaja Khan",
+         "email":"khajakhanmahamad@gmail.com",
+         "deviceId":"5ef757e28a1b79c5"
+      },
+      {
          "name":"Abhishek Chaudhary",
          "email":"abhishekchaudhary928@gmail.com",
          "deviceId":"356578096309740"
