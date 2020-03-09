@@ -1,6 +1,16 @@
 {
    "users":[
       {
+         "name":"Pankaj Kushwaha",
+         "email":"pankajkushwaha9753@gmail.com",
+         "deviceId":"39092acb875fdfe4"
+      },
+      {
+         "name":"Ranita Rana",
+         "email":"ranitarana00@gmail.com",
+         "deviceId":"d90dc09f89783026"
+      },
+      {
          "name":"Amar P",
          "email":"amarp636363@gmail.com",
          "deviceId":"39092acb875fdfe4"
