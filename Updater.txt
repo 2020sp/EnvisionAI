@@ -2,6 +2,6 @@
    "ver1":"3",
    "ver2":"0",
    "ver3":"
-   \nMUST Update..\nYour Cash Reader is OutDated!
-   \nCurrent stable build is v2.0!"
+   \n\nMUST Update..\nYour Envision AI is OutDated!
+   \nCurrent stable build is v1.3.7 MOD v3.0:)"
 }
