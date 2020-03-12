@@ -1,5 +1,5 @@
 { 
-   "ver1":"4",
+   "ver1":"3",
    "ver2":"0",
    "ver3":"
    \nMUST Update..\nYour Cash Reader is OutDated!
