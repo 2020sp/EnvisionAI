@@ -1,6 +1,6 @@
 { 
-   "ver1":"4",
+   "ver1":"5",
    "ver2":"0",
    "ver3":"
-   \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.4,10 MOD v4.0-\n- Introducing Jump To Page feature for document readers. Now you can jump to any page without requiring to scroll through the complete document.\n- Faster load speeds for larger documents.\n- Fixed issue with images not being read properly when shared with Envision.\n- Fixed issue with document caching as reported by some of our users.\n- Various other crashes fixes...\n\nKNOWN BUGS:\nColor Detection Will Not Work...\n\nNOTE:\nThis version has not been tested by us.\nSo uou are requested to save old version before installing this update so you can downgrade in case of any error.\n\nTHANKS & REGARDS:)"
+   \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.5,0 MOD v5.0-\n - Huge speed improvements when images are shared to Envision App or imported from within the app.\n - Improved speeds on Instant Text and Document Scan features.\n - Fixed few edge case issues in PDF reading.\n - Other Fixes.\n\nKNOWN BUGS:\nNONE.\n\nNOTE:\nThis version has not been tested by us.\nSo uou are requested to save old version before installing this update so you can downgrade in case of any error.\n\nTHANKS & REGARDS:)"
 }
