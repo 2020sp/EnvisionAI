@@ -1,7 +1,12 @@
 {
    "users":[
       {
-         "name":"Manhar B Vala.",
+         "name":"Mayada Nagraj",
+         "email":"mayadanagraj@gmail.com",
+         "deviceId":"76f02fd6f7efbb51"
+      },
+      {
+         "name":"Manhar B Vala",
          "email":"mbvala93@gmail.com",
          "deviceId":"f8d8b6e9cb339e37"
       },
