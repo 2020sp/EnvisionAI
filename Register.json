@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Vipul Himmtabhai Jethva",
+         "email":"jethvavipul1@gmail.com",
+         "deviceId":"be0979423b42d973"
+      },
+      {
          "name":"Farroo",
          "email":"fairyashi199@gmail.com",
          "deviceId":"1d7d37e95c6ae3f7"
@@ -13,7 +18,7 @@
       {
          "name":"Manpreet Singh",
          "email":"m.s.khalsa1995@gmail.com",
-         "deviceId":"afeb324f6ec50361-"
+         "deviceId":"afeb324f6ec50361"
       },
       {
          "name":"Kaushik J Zalariya",
