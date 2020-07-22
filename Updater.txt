@@ -2,5 +2,5 @@
    "ver1":"6",
    "ver2":"0",
    "ver3":"
-   \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.5,3 MOD v5.0-\n - Minor Crash Fixes.\nOther Fixes.\n\nKNOWN BUGS:\nColor Detection Will Not Work:(\n\nTHANKS & REGARDS:)"
+   \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.5,3 MOD v6.0-\n - Minor Crash Fixes.\nOther Fixes.\n\nKNOWN BUGS:\nColor Detection Will Not Work:(\n\nTHANKS & REGARDS:)"
 }
