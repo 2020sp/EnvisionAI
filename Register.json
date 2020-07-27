@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"MD Shahrukh",
+         "email":"md.shah0045@gmail.com",
+         "deviceId":"3513adddc19278db"
+      },
+      {
          "name":"Shishupal Rajpoot",
          "email":"shishupaldsmnru9415@gmail.com",
          "deviceId":"9b9f4e5801e32ec4"
@@ -238,7 +243,7 @@
       {
          "name":"Vishnu Vaiwala",
          "email":"vaiwalavishnu@gmail.com",
-         "deviceId":"925df5aed89ec0b4"
+         "deviceId":"f3943fa73a32d686"
       },
       {
          "name":"Surjit Kumar",
