@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Naman Kumar",
+         "email":"namankumar54359@gmail.com",
+         "deviceId":"ceca6e94ae0f494a"
+      },
+      {
          "name":"MD Shahrukh",
          "email":"md.shah0045@gmail.com",
          "deviceId":"3513adddc19278db"
