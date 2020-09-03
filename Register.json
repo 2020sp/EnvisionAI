@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Sunita Ambavat",
+         "email":"sunitaambawata@gmail.com",
+         "deviceId":"a7c91eefcdf082a2"
+      },
+      {
          "name":"Mohit Pandey",
          "email":"mohit.nationalist@gmail.com",
          "deviceId":"d6357b716bbfd8dc"
