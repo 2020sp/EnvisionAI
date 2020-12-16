@@ -1,5 +1,5 @@
 { 
-   "ver1":"9",
+   "ver1":"11",
    "ver2":"0",
    "ver3":"
    \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.6,3 MOD v9.0-\n - We Don't Know 😝\n\nNote:\nUninstall the older version 1st for better experience,\n\nTHANKS & REGARDS:)"
