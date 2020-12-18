@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Pushpendra Kumar",
+         "email":"pkdu97@gmail.com",
+         "deviceId":"0914f4175771d480"
+      },
+      {
          "name":"Sangeeta",
          "email":"kksangeeta8@gmail.com",
          "deviceId":"ce0a9f19a52b172c"
@@ -18,7 +23,7 @@
       {
          "name":"Paramjeet Singh",
          "email":"param82124@gmail.com",
-         "deviceId":"8a96c6a7b8713c49"
+         "deviceId":"ff0285ef02d7756a"
       },
       {
          "name":"Kamal Randhawa",
