@@ -1,6 +1,6 @@
 { 
-   "ver1":"11",
+   "ver1":"12",
    "ver2":"0",
    "ver3":"
-   \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.7,3 MOD v11.0-\n - We Don't Know 😝\n\nNote:\nUninstall the older version 1st for better experience,\n\nTHANKS & REGARDS:)"
+   \n\nMUST UPDATE YOUR APP IS OUTDATED!\n\nWHAT'S NEW:\nv1.7,13 MOD v12.0-\n - We Don't Know 😝\n\nNote:\nUninstall the older version 1st for better experience,\n\nTHANKS & REGARDS:)"
 }
